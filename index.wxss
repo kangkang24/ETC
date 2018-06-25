@@ -1,0 +1,8 @@
+.znbj_b{
+  width: 682rpx;
+  height:88rpx;
+  background: #EDEDED;
+  border-radius:44rpx;
+  margin:30rpx 0 0 36rpx;
+  line-height:88rpx;
+}
